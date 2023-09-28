@@ -1,0 +1,33 @@
+.div_A{
+    background-color: #F0E68C;
+    width: 600px; 
+    height: 600px
+    }
+    
+.div_B{
+    background-color: 	#E0FFFF;
+    width: 300px;
+    height: 300px;
+    }
+
+.p_1{
+    background-color: black;
+    color: pink; 
+    font-size: 30px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    font-weight: bold;
+
+    }
+
+.div_C{
+    width: 65%;
+    height: 65vh;
+    background-color: rgb(140, 201, 110);
+    }
+    
+.div_D{
+    width: 70 vw;
+    height: 45%;
+    background-color: rgb(190, 110, 255);
+    
+    }
